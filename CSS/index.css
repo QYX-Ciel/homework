@@ -1,0 +1,60 @@
+
+
+.div-1{
+    width: 100%;
+    align-content: center;
+}
+
+.div-2{
+    height: 100%;
+}
+
+.align-1{
+    vertical-align: top;
+    text-align: center;
+}
+.table-1{
+    width: 100%;
+    
+}
+.td-1{
+    width: 15%;
+    background-color: beige;
+}
+.td-2{
+    width: 70%;
+}
+
+table{
+    margin: auto;
+    table-layout:fixed;
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+}
+
+.th-1{
+    width: 20%;
+    height: 40px;
+    background-color: rgb(30,144,255);
+}
+
+.td2{
+    height: 60px;
+}
+
+.li-1{
+    list-style-type: none;
+    text-align: center;
+    padding: 0px;
+}
+
+.li-2{
+    padding-top: 8%;
+    font-size: 20px;
+}
+
+a:link {color: blue}
+a:visited {color: blue;}
+a:hover {color:red}
+a:active {color: red}
